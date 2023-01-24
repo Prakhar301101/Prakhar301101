@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prakhar301101
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning Express 
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me prakhar.pandey.pp6@gmail.com
 
