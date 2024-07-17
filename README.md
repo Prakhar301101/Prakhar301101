@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Prakhar301101
-- 👀 I’m interested in ReactJS
+- 👋 Hi, I’m Prakhar,
+- 👀 I’m interested in JavaScript
 - 🌱 I’m currently exploring backend technologies and databases
-- 💞️ I’m looking to collaborate on Frontend Projects
-- 📫 How to reach me prakhar.pandey.pp6@gmail.com
+- 💞️ I’m looking to collaborate on Fullstack projects
+- 📫 How to reach me prakharpandey4work@gmail.com
 
 <!---
 Prakhar301101/Prakhar301101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
